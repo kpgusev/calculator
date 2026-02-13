@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/calculator.dir/link.d CMakeFiles/calculator.dir/calculator_autogen/mocs_compilation.cpp.o CMakeFiles/calculator.dir/calculator.cc.o CMakeFiles/calculator.dir/MainWindow.cc.o -o calculator  /usr/lib/libQt6Widgets.so.6.10.0 /usr/lib/libQt6Gui.so.6.10.0 /usr/lib/libGLX.so /usr/lib/libOpenGL.so /usr/lib/libQt6Core.so.6.10.0

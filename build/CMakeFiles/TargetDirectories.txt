@@ -1,0 +1,5 @@
+/home/ni/projects/cc/laboratory_works/calculator/build/CMakeFiles/calculator.dir
+/home/ni/projects/cc/laboratory_works/calculator/build/CMakeFiles/edit_cache.dir
+/home/ni/projects/cc/laboratory_works/calculator/build/CMakeFiles/rebuild_cache.dir
+/home/ni/projects/cc/laboratory_works/calculator/build/CMakeFiles/calculator_autogen_timestamp_deps.dir
+/home/ni/projects/cc/laboratory_works/calculator/build/CMakeFiles/calculator_autogen.dir
